@@ -1,4 +1,4 @@
-### Dev Studio
+### DevStudio
 ```
  DevStudio is a platform designed for student freelancers to showcase their skills through various projects and for buyers
 to easily find and purchase services they need.
