@@ -1,0 +1,19 @@
+#success {
+  width: 100%;
+  height: 100%;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 18px;
+  flex-direction: column;
+  gap: 100px;
+  overflow: hidden;
+  padding-bottom: 300px;
+}
+#gif {
+  width: 500px;
+  border-radius: 40%;
+  object-fit: contain;
+  margin-top: 100px;
+}
